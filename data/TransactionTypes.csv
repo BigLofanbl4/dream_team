@@ -1,0 +1,5 @@
+TransactionTypeID,TransactionTypeName
+1,Выдача кредита
+2,Погашение кредита
+3,Начисление процентов
+4,Штраф
